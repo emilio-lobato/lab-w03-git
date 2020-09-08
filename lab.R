@@ -33,6 +33,7 @@ opts_chunk$set(out.width='60%', echo=FALSE, fig.align='center')
 #' 
 #' 1. Navigate to the GitHub repo for this lab assignment, <https://github.com/data-science-methods/lab-w2-git>.  Fork the lab, then clone it to your working machine.  Open the file `lab.R` in a *new* R session.  
 #' 2. Edit `lab.R`.  You don't need to do anything in particular, but they should be trackable changes.  Add and commit the changes to your working machine.  In the commit message, put something like "problem 1 step 2."
+x <- 1:5
 #' 3. Edit `lab.R` again, making another round of changes.  Add and commit the changes to your working machine. In the commit message, put something like "problem 1 step 3." 
 #' 4. Push the repo back up to GitHub.  
 #' 
